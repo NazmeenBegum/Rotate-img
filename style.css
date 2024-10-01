@@ -1,0 +1,10 @@
+#image {
+	width: 200px; /* adjust image size */
+	height: 200px; /* adjust image size */
+	margin: 20px;
+	transform: rotate(0deg); /* initial rotation */
+	transition: transform 0.5s; /* smooth rotation */
+}
+
+
+
